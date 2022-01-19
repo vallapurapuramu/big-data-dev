@@ -10,7 +10,7 @@ This is my Big Data Development Repository
 - I finished my under graduation in 2018.
 
 ## Plans
-- I have no experience in any IT sector but I'm looking forward to work in field of data science.
+- I'm looking forward to work in field of data science.
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/ramu-vallapurapu-14461714b/)
