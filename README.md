@@ -2,12 +2,14 @@
 This is my Big Data Development Repository
 # Ramu Vallapurapu
 
-##  Background
-I am yet to graduate my masters degree in Applied Computer Science in this spring 2022 semester.
+##  Current
+- I am yet to graduate my masters degree in Applied Computer Science in this spring 2022 semester.
 
-## Career Plans
+## Back Ground
 - I am from Hyderabad.
 - I finished my under graduation in 2018.
+
+## Plans
 - I have no experience in any IT sector but I'm looking forward to work in field of data science.
 
 ## Links
