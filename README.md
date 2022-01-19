@@ -12,6 +12,8 @@ I am yet to graduate my masters degree in Applied Computer Science in this sprin
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/ramu-vallapurapu-14461714b/)
+
 [GitHub](https://github.com/vallapurapuramu)
+
 ![Photo](https://media-exp1.licdn.com/dms/image/C5103AQEdpB59guA9rA/profile-displayphoto-shrink_400_400/0/1520047786619?e=1648080000&v=beta&t=fEKIzUU2TbLprYaSNmEz2Wvls2bTlTj9lxk2Rn7JM4g)
 
